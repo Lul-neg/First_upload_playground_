@@ -8,5 +8,5 @@ A dataeset of ***powerplants*** around the world.
 -a csv file
 ## First ReadMe
 This is my first ReadMe
-##Screenshot
+## Screenshot
 <img src= "Screenshot1.png" width= 250px>
