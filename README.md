@@ -1,5 +1,5 @@
 # Global power plant database
-A dataeset of ***powerplants*** '''powerplants around the world.
+A dataeset of ***powerplants*** around the world.
 ## Includes
 -location
 -name of powerplant
